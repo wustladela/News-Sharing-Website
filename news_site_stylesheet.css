@@ -1,0 +1,87 @@
+h1{
+font-family: Papyrus, fantasy;
+text-align: center;
+}
+form{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
+body {
+background-color: #fff; 
+background-image: 
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 1.2em;
+  
+}
+
+#navigation li{
+    list-style: none;
+    margin: 0 auto;
+    width: 900px;
+    
+}
+#navigation li a{
+    text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+       float: left;
+        text-decoration: none;
+        color: #FFB6C1;
+        font-size: 1.6em;
+        margin: 0 .5em;
+}
+#navigation li a:hover {
+        margin-top: 2px;
+}
+table{
+    margin: 0 auto;
+}
+.story_info{
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: dotted;
+    background-color: AliceBlue;
+    width: 800px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.comment_info{
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: dotted;
+    background-color: aliceblue;
+    width: 800px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}  
+.title{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-width: 1px;
+    background-color: cornflowerblue;
+    width: 800px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
